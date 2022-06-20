@@ -32,7 +32,7 @@ class Solution:
                 right = mt[-1] - mt[temp]
                 
             temp+=1
-            print(left,right)
+            #print(left,right)
             if(left==right):
                 return temp-1
             
